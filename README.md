@@ -1,2 +1,0 @@
-# hello-word
-a test
